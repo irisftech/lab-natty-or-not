@@ -26,7 +26,7 @@ O Projeto Projeto Estetika Supremus é uma exploração criativa do uso de Intel
    - Finalmente, todo o conteúdo foi integrado em uma apresentação coesa, garantindo que texto e imagens se complementassem harmoniosamente.
 
 ## 🚀 Resultados
-O resultado do Projeto Extremamente Aesthetic ;) é uma coleção de imagens e textos que capturam a essência da estética moderna. Cada peça de conteúdo foi cuidadosamente criada e refinada para garantir que não apenas sejam visualmente atraentes, mas também carreguem uma narrativa envolvente e autêntica.
+O resultado do Projeto Estetika Supremus é uma coleção de imagens e textos que capturam a essência da estética moderna. Cada peça de conteúdo foi cuidadosamente criada e refinada para garantir que não apenas sejam visualmente atraentes, mas também carreguem uma narrativa envolvente e autêntica.
 
 ## 💭 Reflexão 
 Criar algo que pareça 'natty' (natural e autêntico) com o uso de IA é um desafio interessante. A IA oferece ferramentas poderosas, mas é necessário um toque humano para direcionar e refinar as criações, garantindo que elas ressoem com autenticidade e não apenas como produtos gerados por máquinas. Este projeto foi uma jornada para equilibrar a eficiência e a criatividade da IA com a intuição e a sensibilidade humanas.
